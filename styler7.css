@@ -59,9 +59,9 @@ p{
 
 }
 .col-2{
-	flex-basis:40%;	
+	flex-basis:50%;	
 	min-width:60px;
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 }
 .col-2 img{
 	max-width: 55%;
@@ -76,7 +76,7 @@ p{
 .col-2 h1{
 	font size: 50px;
 	line-height: 60px;
-	margin: 25px 0;
+	margin: 5px 0;
 	margin-bottom: 0px;
 }
 
